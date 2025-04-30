@@ -218,23 +218,23 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # 1. Clone the Repository
-git https://github.com/Ananay-S/airbnb-clone-mern-stack.git
+git clone https://github.com/Ananay-S/airbnb-clone-mern-stack.git
 cd airbnb-clone-mern-stack
 
 # 2. Initialize the Local Database (installed MongoDB)
-cd /init
+cd init
 npm install
 node init.js
 # Seeds the MongoDB database with sample data
 
 # 3. Backend (in a new terminal)
-cd /server
+cd server
 npm install
 node server.js
 # → Server should now be running on http://localhost:8080
 
 # 4. Frontend (in a new terminal)
-cd /client
+cd client
 npm install
 npm run dev
 # → React app should now be running on http://localhost:5173
