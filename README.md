@@ -1,5 +1,10 @@
 # 🌍 Airbnb Clone - MERN Stack
 
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+
 A full-featured Airbnb-like platform built using the MERN stack. This project was developed as a proof of deep understanding of full-stack web development, including authentication, CRUD operations, RESTful APIs, state management, and coding practices.
 
 ---
@@ -198,7 +203,7 @@ airbnb-clone/
 ## 🌐 Hosted Version
 
 You can try out the deployed version of the project here:  
-🔗 [Visit Website](https://airbnb-clone-mern-stack.onrender.com)
+🔗 `Vist Website :` [airbnb-clone-mern-stack.onrender.com](https://airbnb-clone-mern-stack.onrender.com)
 
  <img src="https://res.cloudinary.com/dsbsmaj3b/image/upload/v1746007099/airbnb-clone-mern-stack-qr-code_ftlei9.png" width="200" alt="airbnb-clone-mern-stack-qr-code.png" />
 
@@ -208,7 +213,6 @@ You can try out the deployed version of the project here:
 ---
 
 ## ⚙️ Setup Instructions
-## 🔧 Local Development Setup
 
 Follow these steps to run the project locally on your machine:
 
@@ -219,6 +223,7 @@ cd airbnb-clone-mern-stack
 
 # 2. Initialize the Local Database (installed MongoDB)
 cd /init
+npm install
 node init.js
 # Seeds the MongoDB database with sample data
 
