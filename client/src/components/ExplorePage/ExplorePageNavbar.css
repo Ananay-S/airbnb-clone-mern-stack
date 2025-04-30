@@ -1,0 +1,78 @@
+.epn-conatainer {
+    padding: 0 3%;
+}
+
+.epn-nav {
+    background-color: #fff;
+    overflow-x: auto; /* Enables horizontal scrolling */
+    white-space: nowrap; /* Prevents wrapping of items */
+    z-index: 0;
+    margin: 0;
+}
+.epn-nav::-webkit-scrollbar {
+    display: none; /* hide the scrollbar */
+}
+
+.epnc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0.8rem;
+    border-bottom: 1px solid #fff;
+    border-radius: 0;
+    color: #888;
+    cursor: pointer;
+}
+.epnc:hover {
+    border-bottom: 1px solid #222;
+    background-color: white;
+    color: #222;
+}
+.epnc:hover .epnc-icon {
+    fill: #222;
+}
+.epnc-icon {
+    width: 1.6rem;
+    height: 1.6rem;
+    fill: #888;
+    transition: ease-in-out 0.2s;
+}
+.epnc-name {
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+/* Active category styles */
+.epnc.active {
+    border-bottom: 2px solid #222;
+    color: #222;
+    font-weight: 500;
+}
+.epnc.active svg {
+    fill: #222;
+}
+
+.epn-btns {
+    margin: 1rem;
+}
+.epn-btn {
+    background-color: #fff;
+    border: 1px solid #888;
+    font-size: 1rem;
+    margin: 0 0.5rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    white-space: nowrap;
+    transition: ease-in-out 0.2s;
+}
+.epn-btn:hover {
+    background-color: #f6f6f6;
+    border-color: #222;
+}
+
+.epn-btn-icon {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+

@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+    color: #888;
+}
+a:hover {
+    color: #555;
+}
+
+video {
+    width: 100%;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
+    margin: 1rem;
+}
+.mern-logo {
+    width: 6rem;
+}
+
+pre {
+    background: #f4f4f4;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.8rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+}
+
+.image-container {
+    overflow-x: auto;
+}
+.about-img {
+    width: 100%;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}

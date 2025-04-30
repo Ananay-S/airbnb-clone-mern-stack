@@ -1,0 +1,74 @@
+{
+    "listings": [
+      {
+        "_id": "listing10",
+        "title": "Riverside Boathouse Escape",
+        "description": "Float away from your worries in this charming riverside boathouse with tranquil water views.",
+        "images": [
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744950021/a9a384c5-b237-4569-80c5-ebcf347cf2ec_vnuzya.avif",
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744950025/f751087e_original_dluapn.webp"
+        ],
+        "categories": ["Boats", "Forest", "Monuments"],
+        "price": 1750,
+        "location": "Amsterdam",
+        "country": "Netherlands",
+        "owner": "user8"
+      },
+      {
+        "_id": "listing11",
+        "title": "Clifftop Infinity Pool Villa",
+        "description": "Bask in luxury at this stunning clifftop villa with a private infinity pool and ocean sunset views.",
+        "images": [
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744950780/f61a628a-7a92-4625-8835-b7b8b9064bab_lg1j1j.avif",
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744950803/0ede0d5d-6c05-4462-be11-3ea07dc93c71_atokdd.avif"
+        ],
+        "categories": ["Pool", "Beach", "Spa"],
+        "price": 2200,
+        "location": "Bali",
+        "country": "Indonesia",
+        "owner": "user1"
+      },
+      {
+        "_id": "listing12",
+        "title": "Historic Monastery Stay",
+        "description": "Immerse yourself in peaceful history at this converted monastery with stone walls and ancient charm.",
+        "images": [
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951131/40bc6640-ca9b-4aa8-b533-c032f984f11d_rynmbw.jpg",
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951116/e27674cd-1927-4433-b6b2-c1201c0697af_tmbabl.avif"
+        ],
+        "categories": ["Monuments", "Castle", "Bed & breakfast"],
+        "price": 1550,
+        "location": "Tuscany",
+        "country": "Italy",
+        "owner": "user6"
+      },
+      {
+        "_id": "listing13",
+        "title": "Modern Retreat in the Hills",
+        "description": "Chic hillside home with minimalist decor, panoramic valley views, and nearby hiking trails.",
+        "images": [
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951300/e2864f7a-598f-4311-b6ba-780865d88ff4_pij7op.avif",
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951325/243268ca-6dc4-4567-bb30-2538cdccd2dc_xfxwzi.avif"
+        ],
+        "categories": ["Hill station", "Hiking", "Top cities"],
+        "price": 1400,
+        "location": "Shimla",
+        "country": "India",
+        "owner": "user7"
+      },
+      {
+        "_id": "listing14",
+        "title": "Glass Cabin in Nordic Forest",
+        "description": "Relax in solitude with a modern glass cabin surrounded by pines and the sounds of nature.",
+        "images": [
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951413/21a6aabf-30bd-4646-95b2-11a622a48553_u8fqr0.webp",
+          "https://res.cloudinary.com/dsbsmaj3b/image/upload/v1744951385/8f97d1fa-aba7-41f0-a828-63206b745ed4_pcnc3z.webp"
+        ],
+        "categories": ["Cabin", "Forest", "Arctic"],
+        "price": 1800,
+        "location": "Luleå",
+        "country": "Sweden",
+        "owner": "user2"
+      }
+    ]
+  } 

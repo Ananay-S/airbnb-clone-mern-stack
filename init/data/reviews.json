@@ -1,0 +1,39 @@
+{
+  "reviews": [
+    {
+      "_id": "review11",
+      "comment": "Living in a castle was a dream come true. The history and luxury were amazing.",
+      "rating": 5,
+      "author": "user4",
+      "listing": "listing10"
+    },
+    {
+      "_id": "review12",
+      "comment": "The treehouse was magical! Perfect for a romantic getaway.",
+      "rating": 4,
+      "author": "user5",
+      "listing": "listing11"
+    },
+    {
+      "_id": "review13",
+      "comment": "Yacht life was incredible! The service and amenities were top-notch.",
+      "rating": 5,
+      "author": "user6",
+      "listing": "listing12"
+    },
+    {
+      "_id": "review14",
+      "comment": "Safari experience of a lifetime. Saw so many amazing animals!",
+      "rating": 5,
+      "author": "user7",
+      "listing": "listing13"
+    },
+    {
+      "_id": "review15",
+      "comment": "Houseboat living was so peaceful and unique. Loved every minute!",
+      "rating": 4,
+      "author": "user8",
+      "listing": "listing14"
+    }
+  ]
+} 

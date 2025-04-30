@@ -1,0 +1,43 @@
+.f-info {
+    color: #222;
+    background-color: #f6f6f6;
+    font-size: 1rem;
+
+    height: 4rem;
+    width: 100%;
+    padding: 1rem 2%;
+}
+
+.mql-900 .f-info {
+    height: 8rem;
+}
+
+.f-info-links a {
+    color: #222;
+    text-decoration: none;
+}
+.f-info-links a:hover {
+    text-decoration: underline;
+}
+
+.f-info-access a {
+    color: #222;
+    text-decoration: none;
+}
+.f-info-access a:hover {
+    text-decoration: underline;
+}
+
+.footer-solid-icon {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+.footer-brand-icon {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-right: 0.4rem;
+}
+
+a {
+    margin-right: 0.8rem;
+}
